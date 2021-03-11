@@ -7,6 +7,7 @@ from matplotlib import pyplot as plt
 hide_streamlit_style = """
             <style>
             footer {visibility: hidden;}
+            #MainMenu {visibility: hidden;}
             .block-container {max-width:none;}
             </style>
             """

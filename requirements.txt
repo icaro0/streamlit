@@ -1,0 +1,8 @@
+altair
+joblib
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+seaborn
